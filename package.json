@@ -1,14 +1,14 @@
 {
-    "title": "More HTML5 Code Hints",
-    "name": "brackets-html5codehints",
-    "description": "Extends HTML code hints with more HTML5 elements and attributes such as picture, srcset, inputmode as well as HTML4 elements such as cellpadding, cellspacing and iframe",
-    "version": "1.2.1",
-    "keywords":["template","picture","srcset","autocomplete","html5","html","cellpadding","autocorrect","hints","elements","attributes","template","schema"],
-    "author": "C.Oliff <christianoliff@gmail.com>",
-    "homepage": "https://github.com/coliff/Brackets-HTML5CodeHints/",
+    "title": "More HTML5 Code Hints + Fat-Free Framework Template Tags",
+    "name": "brackets-html5codehints+3f-templates",
+    "description": "!!Original from https://github.com/coliff/Brackets-HTML5CodeHints but extended with own code!!Extends HTML code hints with more HTML5 elements and attributes such as picture, srcset, inputmode as well as HTML4 elements such as cellpadding, cellspacing and iframe. Supports the Fat-Free Framework templatingengine two",
+    "version": "1.0",
+    "keywords":["template","picture","srcset","autocomplete","html5","html","cellpadding","autocorrect","hints","elements","attributes","template","schema","fat","free","fat-free","framework"],
+    "author": "Microgamer <microgamer.developer@gmail.com>",
+    "homepage": "https://github.com/Microgamer/Brackets-HTML5CodeHints-F3-Templatetags/",
     "repository": {
         "type": "git",
-        "url": "git://github.com/coliff/brackets-HTML5CodeHints/brackets-HTML5CodeHints.git"
+        "url": "git://github.com/Microgamer/Brackets-HTML5CodeHints-F3-Templatetags.git"
     },
     "engines": {
         "brackets": ">=1.1"
